@@ -4,7 +4,7 @@ This cookiecutter creates a simple boilerplate for a Jupyter Book.
 
 ## Usage
 
-### Building the book
+### Building the book 
 
 If you'd like to develop and/or build the Test Boooook book, you should:
 
